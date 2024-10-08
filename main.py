@@ -3,7 +3,6 @@ import numpy as np
 from PIL import Image
 from pdf2image import convert_from_path
 
-# 输入和输出PDF文件名
 input_pdf = "123.pdf"
 output_pdf = "123_output.pdf"
 
