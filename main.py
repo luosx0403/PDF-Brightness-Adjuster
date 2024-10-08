@@ -8,7 +8,7 @@ input_pdf = "123.pdf"
 output_pdf = "123_output.pdf"
 
 # 亮度调整参数，可以根据需要修改
-brightness_adjust = 50
+brightness_adjust = 100
 
 # 将PDF的每一页转换为图像
 pages = convert_from_path(input_pdf)
