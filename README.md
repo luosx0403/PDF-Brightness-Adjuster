@@ -8,7 +8,7 @@ pip install numpy pillow pdf2image pymupdf
 # 安装Poppler
 pdf2image 库依赖于 poppler，它是一个开源的PDF渲染库，用于将PDF页面转换为图像。
 - Linux（例如Ubuntu）:
-- ```bash
+```bash
 sudo apt-get install poppler-utils
 ```
 - macOS:
